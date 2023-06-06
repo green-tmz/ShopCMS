@@ -1,0 +1,47 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.2.3",
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-router": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "@vue/compiler-sfc": "^3.0.11",
+        "axios": "^1.1.2",
+        "eslint": "^7.25.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.0",
+        "laravel-vite-plugin": "^0.7.5",
+        "prettier": "^2.2.1",
+        "sass": "^1.34.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^38.0.1",
+        "@ckeditor/ckeditor5-vue": "^5.1.0",
+        "@popperjs/core": "^2.9.3",
+        "@vue/eslint-config-airbnb": "^5.3.0",
+        "axios": "^0.21.1",
+        "babel-eslint": "^10.1.0",
+        "bootstrap": "^5.3.0",
+        "core-js": "^3.6.5",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "swiper": "^6.5.0",
+        "vue": "^3.0.0",
+        "vue-loader": "^17.0.1",
+        "vue-router": "^4.0.0",
+        "vuex": "^4.0.0",
+        "vuex-persistedstate": "^4.1.0"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ]
+}

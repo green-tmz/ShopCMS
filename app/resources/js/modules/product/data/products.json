@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "mi note 10", "price": 899 },
+  { "id": 2, "name": "galaxy z flip", "price": 1299 },
+  { "id": 3, "name": "galaxy note 10", "price": 449 },
+  { "id": 4, "name": "Huawei Y9s", "price": 389 },
+  { "id": 5, "name": "huawei p40 lite", "price": 269 },
+  { "id": 6, "name": "Lenovo ideapad L3", "price": 1099 }
+]

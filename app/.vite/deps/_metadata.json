@@ -1,0 +1,44 @@
+{
+  "hash": "76879185",
+  "browserHash": "896b49ed",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "fc03a953",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../node_modules/lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "987a9d17",
+      "needsInterop": true
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/lib/index.js",
+      "file": "@popperjs_core.js",
+      "fileHash": "ce1cb2ec",
+      "needsInterop": false
+    },
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "78ebe5ed",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "9a00232e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-34KCJ4AU": {
+      "file": "chunk-34KCJ4AU.js"
+    },
+    "chunk-FAW2VN4A": {
+      "file": "chunk-FAW2VN4A.js"
+    }
+  }
+}
